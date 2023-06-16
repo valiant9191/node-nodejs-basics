@@ -13,7 +13,6 @@ const remove = async () => {
     } catch (error) {
         console.error(errorMessage)
     }
-    // Write your code here 
 };
 
 await remove();
